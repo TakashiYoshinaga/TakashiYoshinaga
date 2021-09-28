@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Takashi's github stats](https://github-readme-stats.vercel.app/api?username=TakashiYoshinaga&hide=issues)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=TakashiYoshinaga&layout=compact)
 
 <!--
 **TakashiYoshinaga/TakashiYoshinaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
