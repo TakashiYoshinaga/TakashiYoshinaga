@@ -1,18 +1,29 @@
-### Hi there 👋
-![Takashi's github stats](https://github-readme-stats.vercel.app/api?username=TakashiYoshinaga&hide=issues)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=TakashiYoshinaga&layout=compact)
+<div align="center">
 
-<!--
-**TakashiYoshinaga/TakashiYoshinaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Takashi Yoshinaga 👋
 
-Here are some ideas to get you started:
+### XR / AR / MR Developer  
+### Unity, Computer Vision, Depth Sensing, Spatial Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building prototypes and sample projects that connect the real world and digital experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-TakashiYoshinaga-181717?style=for-the-badge&logo=github)](https://github.com/TakashiYoshinaga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Takashi%20Yoshinaga-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tks-yoshinaga/)
+[![X](https://img.shields.io/badge/X-@Tks__Yoshinaga-000000?style=for-the-badge&logo=x)](https://twitter.com/Tks_Yoshinaga)
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+I'm interested in technologies that make spatial experiences more practical and accessible.
+
+- 🥽 XR / AR / MR application development
+- 🎮 Unity and real-time interactive experiences
+- 📷 Computer vision, marker tracking, and camera-based interaction
+- 🧊 Depth sensing, LiDAR, point clouds, and 3D reconstruction
+- 🌍 Geospatial AR and real-world aligned experiences
+- 🤖 Small experimental tools powered by web, AI, and automation
+
+---
